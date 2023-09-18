@@ -13,3 +13,6 @@ export { default as ProductsGrid } from "./ProductsGrid";
 export { default as Filters } from "./Filters";
 export { default as FormCheckBox } from "./FormCheckBox";
 export { default as Loading } from "./Loading";
+export { default as CartTotals } from "./CartTotals";
+export { default as CartItemsList } from "./CartItemsList";
+export { default as cartItems } from "./CartItem";
